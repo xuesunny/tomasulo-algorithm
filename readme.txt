@@ -1,3 +1,8 @@
+详细内容可见实验报告.pdf
+
+这是一个tomasulo算法的简单实现。可以处理LOAD,STORE,ADDD,SUBD,DIVID,MULTD指令，并跑通Input1.txt和input2.txt两个样例
+输出Output11.txt,output21.txt为每个时钟周期状态，并在最后输出最终指令最终执行情况表。
+
 输入为Input1.txt的输出为output11.txt
 输入为Input2.txt的输出为output21.txt
 通过更改main.cpp里面的文件路径可以决定输入的是input1还是Input2
